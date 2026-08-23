@@ -4,8 +4,9 @@
 
 | Deliverable | Location |
 |---|---|
-| **Live Product URL** | [https://ajaia-docs.vercel.app](https://ajaia-docs.vercel.app) *(or your Vercel deployment URL)* |
-| **Walkthrough Video Guide** | [WALKTHROUGH.md](./WALKTHROUGH.md) |
+| **Live Product URL** | [https://ajaia-six.vercel.app/](https://ajaia-six.vercel.app/) |
+| **Walkthrough Video (Loom)** | [https://www.loom.com/share/844a2813571949aa8222cc8e9307687c](https://www.loom.com/share/844a2813571949aa8222cc8e9307687c) |
+| **GitHub Repository** | [https://github.com/Muhammad-Umer34/Ajaia_Docs](https://github.com/Muhammad-Umer34/Ajaia_Docs) |
 | **README & Setup Guide** | [README.md](./README.md) |
 | **Architecture Note** | [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md) |
 | **AI Workflow Note** | [docs/AI-WORKFLOW.md](./docs/AI-WORKFLOW.md) |

@@ -1,7 +1,8 @@
 # 3-5 Minute Walkthrough Video Guide
 
 ## 🎥 Video Link
-- **Loom / YouTube URL:** `[Paste your Loom or unlisted YouTube recording link here]`
+- **Loom Walkthrough URL:** [https://www.loom.com/share/844a2813571949aa8222cc8e9307687c](https://www.loom.com/share/844a2813571949aa8222cc8e9307687c)
+- **Live Product URL:** [https://ajaia-six.vercel.app/](https://ajaia-six.vercel.app/)
 
 ---
 
