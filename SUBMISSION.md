@@ -4,6 +4,7 @@
 
 | Deliverable | Location |
 |---|---|
+| **Google Drive Deliverables Folder** | [https://drive.google.com/drive/folders/1FPInL9sDnc8TcKIt1GWlRRH3mXyfGDd3?usp=sharing](https://drive.google.com/drive/folders/1FPInL9sDnc8TcKIt1GWlRRH3mXyfGDd3?usp=sharing) |
 | **Live Product URL** | [https://ajaia-six.vercel.app/](https://ajaia-six.vercel.app/) |
 | **Walkthrough Video (Loom)** | [https://www.loom.com/share/844a2813571949aa8222cc8e9307687c](https://www.loom.com/share/844a2813571949aa8222cc8e9307687c) |
 | **GitHub Repository** | [https://github.com/Muhammad-Umer34/Ajaia_Docs](https://github.com/Muhammad-Umer34/Ajaia_Docs) |
